@@ -7,11 +7,16 @@ molecool
 
 A Python package for analyzing and visualizing pdg and xyz files. For <olssi May webinar series.
 
-This repository is currently in developement Dev instal
+This repository is currently in developement Dev install
 
 'pip install -e'
 
 in the the repository directory. 
+
+this package requires.
+
+-NumPy
+-Matplotlib
 
 ### Copyright
 
