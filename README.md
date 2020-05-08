@@ -13,7 +13,7 @@ This repository is currently in developement Dev install
 
 in the the repository directory. 
 
-this package requires.
+this package requires.    
 
 -NumPy
 -Matplotlib
