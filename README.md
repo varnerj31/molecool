@@ -9,7 +9,7 @@ A Python package for analyzing and visualizing pdg and xyz files. For Molssi May
 
 This repository is currently in developement Dev install
 
-'pip install -e'
+'pip install -e.'
 
 in the the repository directory. 
 
@@ -17,6 +17,15 @@ this package requires.
 
 -NumPy
 -Matplotlib
+
+
+Features should devloped on branches. To switch to a ne branch use command
+
+'git checkout -b "branch name"'
+
+to switch to an existing branch
+
+'git checkout "branch name"'
 
 ### Copyright
 
